@@ -1,5 +1,6 @@
 import React, {Component} from 'react';
-
+import './App.css'
+import Welcome from './Babupage/Welcome'
 
 
 
@@ -8,17 +9,20 @@ export default class App extends Component{
 
 
 
-
   render(){
 
-    const a = "Welcome to the world of Babu"
+    
+    const a = (name) =>{
+      const g = name;
+      return g;
+    }
 
     return(
       <div className="App">
-        <nav></nav>
 
-        <h1><p align ="center">{a}</p></h1>
-
+        
+        
+      <Welcome/>
 
 
 
