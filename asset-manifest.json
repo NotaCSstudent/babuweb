@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "//mbabu94.github.io/babuweb/static/css/main.022c4c98.chunk.css",
+    "main.js": "//mbabu94.github.io/babuweb/static/js/main.1fa14d68.chunk.js",
+    "main.js.map": "//mbabu94.github.io/babuweb/static/js/main.1fa14d68.chunk.js.map",
+    "runtime-main.js": "//mbabu94.github.io/babuweb/static/js/runtime-main.68fcd174.js",
+    "runtime-main.js.map": "//mbabu94.github.io/babuweb/static/js/runtime-main.68fcd174.js.map",
+    "static/js/2.cd449228.chunk.js": "//mbabu94.github.io/babuweb/static/js/2.cd449228.chunk.js",
+    "static/js/2.cd449228.chunk.js.map": "//mbabu94.github.io/babuweb/static/js/2.cd449228.chunk.js.map",
+    "index.html": "//mbabu94.github.io/babuweb/index.html",
+    "precache-manifest.f768e98c700ce91f8f2204a7e029bfe6.js": "//mbabu94.github.io/babuweb/precache-manifest.f768e98c700ce91f8f2204a7e029bfe6.js",
+    "service-worker.js": "//mbabu94.github.io/babuweb/service-worker.js",
+    "static/css/main.022c4c98.chunk.css.map": "//mbabu94.github.io/babuweb/static/css/main.022c4c98.chunk.css.map",
+    "static/js/2.cd449228.chunk.js.LICENSE.txt": "//mbabu94.github.io/babuweb/static/js/2.cd449228.chunk.js.LICENSE.txt",
+    "static/media/welcome.css": "//mbabu94.github.io/babuweb/static/media/babupic.229db538.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.68fcd174.js",
+    "static/js/2.cd449228.chunk.js",
+    "static/css/main.022c4c98.chunk.css",
+    "static/js/main.1fa14d68.chunk.js"
+  ]
+}
