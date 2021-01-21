@@ -13,7 +13,7 @@ export default class Welcome extends Component{
   render(){
 
     
-    const a = (name = "BAN EMBEE") =>{
+    const a = (name = "SHOUT OUT TO CUNY HACKATHON") =>{
       const g = name;
       return g;
     }
